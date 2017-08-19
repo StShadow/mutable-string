@@ -10,10 +10,8 @@ If you still curious and don't know an answer - you could check a source code.
 1. first git clone a repo:
   `git clone https://github.com/StShadow/mutable-string.git`
 1. then build and run with maven:
-  
-  `mvn mvn -q exec:exec` for mutable example
-  
-  `mvn -q exec:exec -P hardened` for immutable again
+  - `mvn mvn -q exec:exec` for mutable example
+  - `mvn -q exec:exec -P hardened` for immutable again
 1. alternatively you could run a testcase `me.anatoli.mutable.impl.DefaultMutatorTest`
 
 ## License

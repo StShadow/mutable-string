@@ -18,4 +18,4 @@ If you still curious and don't know an answer - you could check a source code.
 
 ## License
 
-The project is licensed under two licenses - [Unlicense](https://unlicense.org/) and [WFTPL](http://www.wtfpl.net/)
+The project is licensed under two licenses - [Unlicense](https://unlicense.org/) and [WTFPL](http://www.wtfpl.net/)

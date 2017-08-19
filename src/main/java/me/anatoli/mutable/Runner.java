@@ -11,6 +11,7 @@ public class Runner {
         }
         String input = args[0];
         int inputLenght = input.length();
+        System.out.println("MAKE STRING MUTABLE AGAIN!\n");
         System.out.println("Input string:\t" + input);
         andHereWhereMagicIsInvoked(input);
         System.out.println("Mutated string:\t" + input);
@@ -24,7 +25,7 @@ public class Runner {
 
     /**
      * Try to guess before going to sources
-     * 
+     *
      * @param input
      */
     private static void andHereWhereMagicIsInvoked(String input) {
